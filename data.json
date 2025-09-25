@@ -1,0 +1,20 @@
+{
+  "schoolName": "AP Public School",
+  "established": 1995,
+  "address": "Jamuhara kala, Adda Bazar",
+  "students": 1200,
+  "principal": "Mr. Subodh Nath Maurya",
+  "email": "contact@appublicschool.com",
+  "phone": "+91 9876543210",
+  "motto": "Shaping the future through quality education",
+  "gallery": [
+    "https://picsum.photos/300/200?1",
+    "https://picsum.photos/300/200?2",
+    "https://picsum.photos/300/200?3"
+  ],
+  "notices": [
+    "Admissions open for 2025 session.",
+    "Annual Sports Day on 15th October.",
+    "Parent-Teacher meeting scheduled for 5th November."
+  ]
+}
