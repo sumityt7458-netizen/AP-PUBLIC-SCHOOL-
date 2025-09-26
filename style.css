@@ -1,5 +1,5 @@
 /* Banner background */
-.banner {
+banner {
   background-image: url("images-school.jpg"); /* 👈 apna banner image */
   background-size: cover;  /* pura cover karega */
   background-position: center; /* center me focus karega */
