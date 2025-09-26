@@ -1,3 +1,27 @@
+/* Banner background */
+.banner {
+  background-image: url("images-school.jpg"); /* 👈 apna banner image */
+  background-size: cover;  /* pura cover karega */
+  background-position: center; /* center me focus karega */
+  color: white;             /* text ko white kar diya */
+  text-align: center;
+  padding: 80px 20px;       /* space upar niche */
+}
+
+/* Logo */
+.logo {
+  width: 100px;
+  display: block;
+  margin: 0 auto 20px; /* beech me center + thoda gap niche */
+}
+
+/* Nav */
+nav a {
+  color: yellow;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
 body {
   font-family: Arial, sans-serif;
   margin: 0;
