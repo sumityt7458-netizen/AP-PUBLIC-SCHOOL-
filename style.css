@@ -9,10 +9,9 @@ banner {
 }
 
 /* Logo */
-.logo {
-  width: 100px;
-  display: block;
-  margin: 0 auto 20px; /* beech me center + thoda gap niche */
+#schoolLogo {
+  width: 80px;   /* size adjust karo */
+  height: auto;
 }
 
 /* Nav */
